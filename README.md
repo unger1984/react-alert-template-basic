@@ -1,4 +1,4 @@
-# react-alert-template-basic
+# @unger1984/react-alert-template-basic
 
 > Basic alert template for [react-alert](https://github.com/schiehll/react-alert)
 
@@ -7,5 +7,5 @@
 ## Installation
 
 ```bash
-$ npm install --save react-alert-template-basic
+$ npm install --save @unger1984/react-alert-template-basic
 ```
