@@ -16,3 +16,4 @@ dist
 .npmignore
 .DS_Store
 
+*.iml
